@@ -35,3 +35,8 @@ class Task {
   
   module.exports = { Task, TaskManager };
   
+
+  // Ta sem o template inicial
+  // Ta sem package.json
+  // ta sem declaração de test
+  // ta sem node no seu pc
